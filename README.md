@@ -1,6 +1,6 @@
 # **Case Study: Converting Casual Cyclistic Riders to Annual Members**
 
-![people_riding_a_bike](./images/bike.jpg)
+![people_riding_a_bike](images/person-riding-bike.jpg)
 *Image: Getty Images/iStock*
 
 ## Scenario 
