@@ -79,4 +79,4 @@ Finally I compared how the type of bike hired compared between the two rider cat
 
 ## Sharing Insights Through Visualization 
 
-In this step, I created intuitive visualizations using PowerBI to communicate the results of my analysis. The visualizations and insights gleaned can be found [here.]()
+In this step, I created intuitive visualizations using PowerBI to communicate the results of my analysis. The visualizations and insights gleaned can be found [here.](Cyclistic_Visualization.pdf)
